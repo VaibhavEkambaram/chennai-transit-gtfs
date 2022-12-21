@@ -1,1 +1,7 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+SWM-SAP,CMR,Airport,Wimco Nagar Metro to Chennai International Airport,,,,BLUE,
+SAP-SWN,CMR,Wimco Nagar Metro, Chennai International Airport to Wimco Nagar,,,,BLUE,
+SCC-SAP,CMR,Airport,Chennai Central Station to Chennai International Airport,,,,GREY,
+SCC-SMM,CMR,St. Thomas Mount, Chennai Central Station to St. Thomas Mount,,,,DARK_GREEN,
+SAP-SCC,CMR,Chennai Central Station,Chennai International Airport to Chennai Central Station,,,,GREY,
+SMM-SCC,Chennai Central Station,St. Thoas Mount to Chennai Central Station,,,,DARK_GREEN,
