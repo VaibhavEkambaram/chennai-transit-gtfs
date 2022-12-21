@@ -1,0 +1,5 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+CMR,Chennai Metropolitan Rail,https://chennaimetrorail.org/,Asia/Kolkata,en
+CSR,Chennai Suburban Rail,https://sr.indianrailways.gov.in/,Asia/Kolkata,en
+MRTS,Chennai Mass Rapid Transit System,https://sr.indianrailways.gov.in/,Asia/Kolkata,en
+MTC,Metropolitan Transport Corporation,https://mtcbus.tn.gov.in/,Asia/Kolkata,en
